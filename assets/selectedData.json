@@ -1,0 +1,16 @@
+{
+   "body":{
+      "salutation":"Mr.",
+      "maritalStatus":"M",
+      "educationLevel":"18",
+      "housingType":"R",
+      "numberOfChildren":0,
+      "numberOfDependencies":0,
+      "personWithDisability":true,
+      "disabilityType":"Visual",
+      "politicallyExposedPerson":false,
+      "closeRelativeWithPEP":false,
+      "pepRelativePosition":"Minister of education",
+      "pepRelativeRelationship":"uncle"
+   }
+}
